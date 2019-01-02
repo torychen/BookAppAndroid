@@ -1,5 +1,6 @@
 # skip backup directory
 bk/
+~*
 
 # Built application files
 *.apk
