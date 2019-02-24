@@ -6208,6 +6208,7 @@ https://detail.tmall.com/item.htm?spm=a230r.1.14.20.778043c8G5vjjA&id=5455418726
 
 
 [写作软件哪个好？最好用的十款写作软件推荐](http://www.xiazaizhijia.com/news/20150817/85820.html)
+【淘宝已买，云盘里有。】
 + 云帆小说写作助手  
 + 写作小助手  
 + 码字管家简单版
