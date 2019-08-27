@@ -2,6 +2,9 @@ heros
 
 2019-8-26
 
+## ref
+[英雄的世界](http://heroworld.gamerhome.com/)
+
 ## 英雄无敌
 ### 魔法
 
