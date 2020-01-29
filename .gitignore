@@ -1,5 +1,13 @@
-# skip backup directory
+# my part
+0000Account/
+练笔/
 bk/
+
+*.pdf
+
+
+
+# skip backup directory
 ~*
 
 # Built application files
@@ -67,6 +75,3 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
-/练笔
-*.pdf
-/0210签约/*.pdf
